@@ -1,0 +1,30 @@
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\bin\Debug\CilentProject.exe.config
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\bin\Debug\CilentProject.exe
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\bin\Debug\CilentProject.pdb
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.csprojAssemblyReference.cache
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.Form1.resources
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.Properties.Resources.resources
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.csproj.GenerateResource.cache
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.csproj.CoreCompileInputs.cache
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.exe
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\CilentProject\CilentProject\obj\Debug\CilentProject.pdb
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.csprojAssemblyReference.cache
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.Form1.resources
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.Properties.Resources.resources
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.csproj.GenerateResource.cache
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.csproj.CoreCompileInputs.cache
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.exe
+C:\Users\ilant\Desktop\CilentProject\CilentProject\obj\Debug\CilentProject.pdb
+C:\Users\ilant\Desktop\CilentProject\CilentProject\bin\Debug\CilentProject.exe.config
+C:\Users\ilant\Desktop\CilentProject\CilentProject\bin\Debug\CilentProject.exe
+C:\Users\ilant\Desktop\CilentProject\CilentProject\bin\Debug\CilentProject.pdb
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\bin\Debug\CilentProject.exe.config
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\bin\Debug\CilentProject.exe
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\bin\Debug\CilentProject.pdb
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.csprojAssemblyReference.cache
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.Form1.resources
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.Properties.Resources.resources
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.csproj.GenerateResource.cache
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.csproj.CoreCompileInputs.cache
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.exe
+D:\לימודים\מכללה\שנה ב\סמסטר ב\תכנון תשתיות רשת\CilentProject\CilentProject\obj\Debug\CilentProject.pdb
